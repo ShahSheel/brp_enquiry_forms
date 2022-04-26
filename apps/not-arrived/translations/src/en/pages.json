@@ -39,6 +39,9 @@
       }
     }
   },
+  "application-type": {
+    "header": "What type of application have you made?"
+  },
   "contact-details": {
     "header": "How should we contact you about your BRP?",
     "address": {
@@ -69,7 +72,8 @@
       "head": {
         "delivery-details": "Delivery details",
         "personal-details": "Personal details",
-        "contact-details": "Contact details"
+        "contact-details": "Contact details",
+        "application-details": "Application details"
       },
       "headers": {
         "contact-address": "Contact address",
@@ -83,7 +87,8 @@
         "delivery-date": "Date of letter",
         "no-letter": "You do not have the delivery letter",
         "delivery-details": "Delivery details",
-        "delivery-address": "Delivery address"
+        "delivery-address": "Delivery address",
+        "application-type": "Application type"
       }
     },
     "org-help": {
