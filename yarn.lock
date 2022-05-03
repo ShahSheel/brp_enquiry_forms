@@ -2779,10 +2779,10 @@ hmac-drbg@^1.0.1:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hof@^19.13.15:
-  version "19.13.15"
-  resolved "https://registry.yarnpkg.com/hof/-/hof-19.13.15.tgz#f9162659959c433b507c7bb297852e7e5249bdca"
-  integrity sha512-xywgUvLsORkEZwFGEpv14vFmesm+XHKg2B8xM3AWwredZ+AJ68dXu1UugzwR14otJts+HDdr0sWJxEudFzBR6Q==
+hof@^19.13.21:
+  version "19.13.21"
+  resolved "https://registry.yarnpkg.com/hof/-/hof-19.13.21.tgz#f5345d00b918feb90b821efe93411fcfa3422b0e"
+  integrity sha512-9tNa87dwwDEiKqH0+aa0y1b9OsF6BKULa5Y04oLABzSpopNZ/W0mEAi4hr9xpUb5thnwycu8b1CUveoRIlTLig==
   dependencies:
     aliasify "^2.1.0"
     bluebird "^3.7.2"
@@ -5695,7 +5695,6 @@ winston-transport@^4.5.0:
     logform "^2.3.2"
     readable-stream "^3.6.0"
     triple-beam "^1.3.0"
-
 
 winston@^3.3.0, winston@^3.7.2:
   version "3.7.2"

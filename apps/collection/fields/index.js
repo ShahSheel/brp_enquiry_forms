@@ -90,10 +90,10 @@ module.exports = {
     validate: ['required', 'notUrl']
   },
   'application-type-other': {
-    validate: ['required'],
+    validate: ['required', {type: 'maxlength', arguments: 50}],
     dependent: {
       field: 'application-type',
-      value: 'other'
+      value: 'application-type-other'
     }
   }
 };
